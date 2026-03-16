@@ -1,0 +1,337 @@
+Date,Day,GridPoint,Row,Col,TimeTaken,TimeSlot,Temperature_C,Humidity_pct,People,WindowsOpen,OutdoorTemp_C,VentilationType,CloudCover,Rainfall,ActiveElectronics,DoorStatus,SunSide,RoomLength_m,RoomWidth_m,CeilingHeight_m,GridSize,WindowWidth_m,WindowHeight_m,WindowCount,ReadingHeight_m,FloorMaterial,WallMaterial
+2026-03-05,Thursday,A1,A,1,08:00,Morning,28.5,78,4,0,27.9,Fan(s) on,Partly Cloudy,No,4,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,A2,A,2,08:03,Morning,28.8,78,4,0,27.9,Fan(s) on,Partly Cloudy,No,4,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,A3,A,3,08:06,Morning,28.8,78,4,0,27.9,Fan(s) on,Partly Cloudy,No,4,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,A4,A,4,08:08,Morning,28.8,79,4,0,27.9,Fan(s) on,Partly Cloudy,No,4,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,B1,B,1,08:09,Morning,28.7,80,4,0,27.9,Fan(s) on,Partly Cloudy,No,4,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,B2,B,2,08:11,Morning,28.7,79,4,0,27.9,Fan(s) on,Partly Cloudy,No,4,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,B3,B,3,08:13,Morning,28.7,80,4,0,27.9,Fan(s) on,Partly Cloudy,No,4,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,B4,B,4,08:14,Morning,28.6,80,4,0,27.9,Fan(s) on,Partly Cloudy,No,4,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,C1,C,1,08:16,Morning,28.7,79,4,0,27.9,Fan(s) on,Partly Cloudy,No,4,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,C2,C,2,08:18,Morning,28.7,79,4,0,27.9,Fan(s) on,Partly Cloudy,No,4,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,C3,C,3,08:19,Morning,29,79,4,0,27.9,Fan(s) on,Partly Cloudy,No,4,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,C4,C,4,08:21,Morning,29,79,4,0,27.9,Fan(s) on,Partly Cloudy,No,4,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,D1,D,1,08:25,Morning,29.1,79,4,0,27.9,Fan(s) on,Partly Cloudy,No,4,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,D2,D,2,08:27,Morning,29.2,80,4,0,27.9,Fan(s) on,Partly Cloudy,No,4,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,D3,D,3,08:30,Morning,29.1,81,4,0,27.9,Fan(s) on,Partly Cloudy,No,4,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,D4,D,4,08:32,Morning,29.1,81,4,0,27.9,Fan(s) on,Partly Cloudy,No,4,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,A1,A,1,13:50,Afternoon,34.2,62,28,0,34,Natural only,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,A2,A,2,13:56,Afternoon,34.2,65,26,0,34,Natural only,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,A3,A,3,13:58,Afternoon,34.2,65,26,0,34,Natural only,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,A4,A,4,14:00,Afternoon,34,66,28,0,34,Natural only,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,B1,B,1,14:03,Afternoon,33.5,67,28,0,34,Natural only,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,B2,B,2,14:05,Afternoon,33.2,69,30,0,34,Natural only,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,B3,B,3,14:08,Afternoon,33.1,69,28,0,34,Natural only,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,B4,B,4,14:12,Afternoon,33.1,70,30,0,34,Natural only,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,C1,C,1,14:18,Afternoon,33.1,69,34,0,34,Natural only,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,C2,C,2,14:20,Afternoon,33.1,69,28,0,34,Natural only,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,C3,C,3,14:23,Afternoon,33.1,62,30,0,34,Natural only,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,C4,C,4,14:25,Afternoon,33.4,66,30,0,34,Natural only,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,D1,D,1,14:28,Afternoon,33.8,62,30,0,34,Natural only,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,D2,D,2,14:29,Afternoon,33.8,64,30,0,34,Natural only,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,D3,D,3,14:32,Afternoon,33.8,61,30,0,34,Natural only,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,D4,D,4,14:33,Afternoon,33.9,60,32,0,34,Natural only,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,A1,A,1,17:07,Evening,34.2,65,10,3,33.8,Natural only,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,A2,A,2,17:12,Evening,34,64,10,3,33.8,Natural only,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,A3,A,3,17:15,Evening,34.2,66,10,3,33.8,Natural only,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,A4,A,4,17:16,Evening,34.2,61,10,3,33.8,Natural only,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,B1,B,1,17:17,Evening,34.2,67,10,3,33.8,Natural only,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,B2,B,2,17:20,Evening,34.4,64,10,3,33.8,Natural only,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,B3,B,3,17:22,Evening,34.4,68,10,3,33.8,Natural only,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,B4,B,4,17:25,Evening,34.3,68,10,3,33.8,Natural only,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,C1,C,1,17:30,Evening,34.3,64,10,3,33.8,Natural only,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,C2,C,2,17:32,Evening,34.3,66,10,3,33.8,Natural only,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,C3,C,3,17:33,Evening,34.3,62,10,3,33.8,Natural only,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,C4,C,4,17:34,Evening,34.2,63,10,3,33.8,Natural only,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,D1,D,1,17:38,Evening,34.6,62,10,3,33.8,Natural only,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,D2,D,2,17:40,Evening,34.3,62,10,3,33.8,Natural only,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,D3,D,3,17:42,Evening,34.3,59,10,3,33.8,Natural only,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-05,Thursday,D4,D,4,17:50,Evening,34.3,58,10,3,33.8,Natural only,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,A1,A,1,07:20,Morning,29.7,78,3,0,29,Fan(s) on,Clear,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,A2,A,2,07:22,Morning,29.9,79,3,0,29,Fan(s) on,Clear,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,A3,A,3,07:24,Morning,29.9,79,3,0,29,Fan(s) on,Clear,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,A4,A,4,07:26,Morning,29.9,79,3,0,29,Fan(s) on,Clear,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,B1,B,1,07:28,Morning,29.9,78,3,0,29,Fan(s) on,Clear,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,B2,B,2,07:30,Morning,30,78,3,0,29,Fan(s) on,Clear,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,B3,B,3,07:34,Morning,30.1,79,3,0,29,Fan(s) on,Clear,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,B4,B,4,07:35,Morning,30.1,79,3,0,29,Fan(s) on,Clear,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,C1,C,1,07:39,Morning,29.8,78,3,0,29,Fan(s) on,Clear,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,C2,C,2,07:42,Morning,29.9,78,3,0,29,Fan(s) on,Clear,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,C3,C,3,07:44,Morning,30,79,3,0,29,Fan(s) on,Clear,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,C4,C,4,07:46,Morning,30,78,3,0,29,Fan(s) on,Clear,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,D1,D,1,07:49,Morning,30.2,80,3,0,29,Fan(s) on,Clear,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,D2,D,2,07:52,Morning,30.2,82,3,0,29,Fan(s) on,Clear,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,D3,D,3,07:54,Morning,30.2,81,3,0,29,Fan(s) on,Clear,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,D4,D,4,07:56,Morning,30.2,81,3,0,29,Fan(s) on,Clear,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,A1,A,1,13:10,Afternoon,32.4,70,20,6,33,Natural only,Partly Cloudy,No,16,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,A2,A,2,13:11,Afternoon,32.4,67,20,6,33,Natural only,Partly Cloudy,No,16,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,A3,A,3,13:12,Afternoon,32,68,20,6,33,Natural only,Partly Cloudy,No,16,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,A4,A,4,13:13,Afternoon,32,64,20,6,33,Natural only,Partly Cloudy,No,16,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,B1,B,1,13:17,Afternoon,31.6,71,22,6,33,Natural only,Partly Cloudy,No,16,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,B2,B,2,13:19,Afternoon,31.2,71,23,6,33,Natural only,Partly Cloudy,No,16,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,B3,B,3,13:20,Afternoon,31.2,71,25,6,33,Natural only,Partly Cloudy,No,16,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,B4,B,4,13:22,Afternoon,31.2,70,26,6,33,Natural only,Partly Cloudy,No,16,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,C1,C,1,13:26,Afternoon,31.2,69,30,6,33,Natural only,Partly Cloudy,No,16,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,C2,C,2,13:27,Afternoon,31.2,69,28,6,33,Natural only,Partly Cloudy,No,16,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,C3,C,3,13:28,Afternoon,31.6,66,27,6,33,Natural only,Partly Cloudy,No,16,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,C4,C,4,13:30,Afternoon,31.6,67,27,6,33,Natural only,Partly Cloudy,No,16,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,D1,D,1,13:31,Afternoon,31.6,62,28,6,33,Natural only,Partly Cloudy,No,16,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,D2,D,2,13:32,Afternoon,32,64,28,6,33,Natural only,Partly Cloudy,No,16,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,D3,D,3,13:33,Afternoon,32,63,30,6,33,Natural only,Partly Cloudy,No,16,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,D4,D,4,13:34,Afternoon,32,63,27,6,33,Natural only,Partly Cloudy,No,16,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,A1,A,1,18:00,Evening,30.8,80,6,3,30.8,Fan(s) on,Partly Cloudy,No,6,Partially Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,A2,A,2,18:01,Evening,30.7,77,6,3,30.8,Fan(s) on,Partly Cloudy,No,6,Partially Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,A3,A,3,18:02,Evening,30.7,75,6,3,30.8,Fan(s) on,Partly Cloudy,No,6,Partially Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,A4,A,4,18:03,Evening,30.7,74,6,3,30.8,Fan(s) on,Partly Cloudy,No,6,Partially Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,B1,B,1,18:05,Evening,31,76,6,3,30.8,Fan(s) on,Partly Cloudy,No,6,Partially Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,B2,B,2,18:07,Evening,30.9,76,6,3,30.8,Fan(s) on,Partly Cloudy,No,6,Partially Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,B3,B,3,18:08,Evening,30.8,76,6,3,30.8,Fan(s) on,Partly Cloudy,No,6,Partially Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,B4,B,4,18:09,Evening,30.8,72,6,3,30.8,Fan(s) on,Partly Cloudy,No,6,Partially Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,C1,C,1,18:11,Evening,30.7,72,6,3,30.8,Fan(s) on,Partly Cloudy,No,6,Partially Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,C2,C,2,18:12,Evening,30.8,75,6,3,30.8,Fan(s) on,Partly Cloudy,No,6,Partially Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,C3,C,3,18:13,Evening,30.8,74,6,3,30.8,Fan(s) on,Partly Cloudy,No,6,Partially Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,C4,C,4,18:15,Evening,30.8,72,6,3,30.8,Fan(s) on,Partly Cloudy,No,6,Partially Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,D1,D,1,18:17,Evening,31.2,72,6,3,30.8,Fan(s) on,Partly Cloudy,No,6,Partially Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,D2,D,2,18:18,Evening,31.3,73,6,3,30.8,Fan(s) on,Partly Cloudy,No,6,Partially Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,D3,D,3,18:19,Evening,31.3,73,6,3,30.8,Fan(s) on,Partly Cloudy,No,6,Partially Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-06,Friday,D4,D,4,18:20,Evening,31.3,74,6,3,30.8,Fan(s) on,Partly Cloudy,No,6,Partially Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,A1,A,1,07:32,Morning,29.8,78,3,0,29.6,Fan(s) on,Partly Cloudy,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,A2,A,2,07:33,Morning,30.2,78,3,0,29.6,Fan(s) on,Partly Cloudy,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,A3,A,3,07:35,Morning,29.8,78,3,0,29.6,Fan(s) on,Partly Cloudy,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,A4,A,4,07:37,Morning,29.8,78,3,0,29.6,Fan(s) on,Partly Cloudy,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,B1,B,1,07:39,Morning,29.8,79,3,0,29.6,Fan(s) on,Partly Cloudy,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,B2,B,2,07:40,Morning,29.8,78,3,0,29.6,Fan(s) on,Partly Cloudy,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,B3,B,3,07:42,Morning,29.8,78,3,0,29.6,Fan(s) on,Partly Cloudy,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,B4,B,4,07:43,Morning,29.8,78,3,0,29.6,Fan(s) on,Partly Cloudy,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,C1,C,1,07:44,Morning,30,79,3,0,29.6,Fan(s) on,Partly Cloudy,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,C2,C,2,07:45,Morning,30,79,3,0,29.6,Fan(s) on,Partly Cloudy,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,C3,C,3,07:46,Morning,30,79,3,0,29.6,Fan(s) on,Partly Cloudy,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,C4,C,4,07:48,Morning,30,79,3,0,29.6,Fan(s) on,Partly Cloudy,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,D1,D,1,07:50,Morning,30.4,79,3,0,29.6,Fan(s) on,Partly Cloudy,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,D2,D,2,07:51,Morning,30.4,79,3,0,29.6,Fan(s) on,Partly Cloudy,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,D3,D,3,07:52,Morning,30.4,81,3,0,29.6,Fan(s) on,Partly Cloudy,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,D4,D,4,07:54,Morning,30,82,3,0,29.6,Fan(s) on,Partly Cloudy,No,3,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,A1,A,1,12:00,Afternoon,32.3,68,7,7,32.7,Natural only,Partly Cloudy,No,6,Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,A2,A,2,12:01,Afternoon,32.3,69,7,7,32.7,Natural only,Partly Cloudy,No,6,Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,A3,A,3,12:02,Afternoon,31.9,69,8,7,32.7,Natural only,Partly Cloudy,No,6,Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,A4,A,4,12:04,Afternoon,31.9,70,8,7,32.7,Natural only,Partly Cloudy,No,6,Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,B1,B,1,12:06,Afternoon,31.8,71,8,7,32.7,Natural only,Partly Cloudy,No,6,Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,B2,B,2,12:07,Afternoon,31.8,70,8,7,32.7,Natural only,Partly Cloudy,No,6,Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,B3,B,3,12:09,Afternoon,31.8,67,8,7,32.7,Natural only,Partly Cloudy,No,6,Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,B4,B,4,12:11,Afternoon,31.8,67,7,7,32.7,Natural only,Partly Cloudy,No,6,Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,C1,C,1,12:13,Afternoon,31.8,70,7,7,32.7,Natural only,Partly Cloudy,No,6,Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,C2,C,2,12:14,Afternoon,31.6,72,6,7,32.7,Natural only,Partly Cloudy,No,6,Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,C3,C,3,12:15,Afternoon,31.6,70,7,7,32.7,Natural only,Partly Cloudy,No,6,Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,C4,C,4,12:17,Afternoon,31.6,71,7,7,32.7,Natural only,Partly Cloudy,No,6,Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,D1,D,1,12:19,Afternoon,31.8,70,7,7,32.7,Natural only,Partly Cloudy,No,6,Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,D2,D,2,12:20,Afternoon,31.8,68,7,7,32.7,Natural only,Partly Cloudy,No,6,Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,D3,D,3,12:21,Afternoon,32,67,7,7,32.7,Natural only,Partly Cloudy,No,6,Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,D4,D,4,12:23,Afternoon,32,67,7,7,32.7,Natural only,Partly Cloudy,No,6,Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,A1,A,1,18:00,Evening,30.5,81,2,7,30,Natural only,Clear,No,2,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,A2,A,2,18:01,Evening,30.4,80,2,7,30,Natural only,Clear,No,2,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,A3,A,3,18:02,Evening,30.5,82,2,7,30,Natural only,Clear,No,2,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,A4,A,4,18:04,Evening,30.5,82,2,7,30,Natural only,Clear,No,2,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,B1,B,1,18:06,Evening,30.5,81,2,7,30,Natural only,Clear,No,2,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,B2,B,2,18:07,Evening,30.6,81,2,7,30,Natural only,Clear,No,2,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,B3,B,3,18:09,Evening,30.6,81,2,7,30,Natural only,Clear,No,2,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,B4,B,4,18:11,Evening,30.6,82,2,7,30,Natural only,Clear,No,2,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,C1,C,1,18:13,Evening,30.5,81,2,7,30,Natural only,Clear,No,2,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,C2,C,2,18:14,Evening,30.5,81,2,0,30,Natural only,Clear,No,2,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,C3,C,3,18:15,Evening,30.6,81,2,0,30,Natural only,Clear,No,2,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,C4,C,4,18:17,Evening,30.6,81,2,0,30,Natural only,Clear,No,2,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,D1,D,1,18:19,Evening,30.5,80,2,0,30,Natural only,Clear,No,2,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,D2,D,2,18:20,Evening,30.5,80,2,0,30,Natural only,Clear,No,2,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,D3,D,3,18:21,Evening,30.5,81,2,0,30,Natural only,Clear,No,2,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-07,Saturday,D4,D,4,18:23,Evening,30.5,81,2,0,30,Natural only,Clear,No,2,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,A1,A,1,07:21,Morning,28.2,81,1,0,27.8,None,Clear,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,A2,A,2,07:22,Morning,28.3,80,1,0,27.8,None,Clear,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,A3,A,3,07:23,Morning,28.3,82,1,0,27.8,None,Clear,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,A4,A,4,07:25,Morning,28.3,82,1,0,27.8,None,Clear,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,B1,B,1,07:26,Morning,28.3,81,1,0,27.8,None,Clear,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,B2,B,2,07:27,Morning,28.3,81,1,0,27.8,None,Clear,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,B3,B,3,07:28,Morning,28.3,81,1,0,27.8,None,Clear,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,B4,B,4,07:29,Morning,28.3,82,1,0,27.8,None,Clear,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,C1,C,1,07:33,Morning,28.3,81,1,0,27.8,None,Clear,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,C2,C,2,07:35,Morning,28.3,81,1,0,27.8,None,Clear,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,C3,C,3,07:37,Morning,28.3,81,1,0,27.8,None,Clear,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,C4,C,4,07:39,Morning,28.3,81,1,0,27.8,None,Clear,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,D1,D,1,07:41,Morning,28.1,82,1,0,27.8,None,Clear,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,D2,D,2,07:42,Morning,28.1,82,1,0,27.8,None,Clear,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,D3,D,3,07:44,Morning,28.1,81,1,0,27.8,None,Clear,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,D4,D,4,07:45,Morning,28.1,81,1,0,27.8,None,Clear,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,A1,A,1,14:19,Afternoon,34.8,60,1,0,34.3,None,Partly Cloudy,No,1,Closed,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,A2,A,2,14:22,Afternoon,34.8,63,1,0,34.3,None,Partly Cloudy,No,1,Closed,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,A3,A,3,14:24,Afternoon,34.8,63,1,0,34.3,None,Partly Cloudy,No,1,Closed,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,A4,A,4,14:25,Afternoon,34.8,64,1,0,34.3,None,Partly Cloudy,No,1,Closed,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,B1,B,1,14:37,Afternoon,34.8,65,1,0,34.3,None,Partly Cloudy,No,1,Closed,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,B2,B,2,14:28,Afternoon,34.8,67,1,0,34.3,None,Partly Cloudy,No,1,Closed,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,B3,B,3,14:29,Afternoon,34.8,63,1,0,34.3,None,Partly Cloudy,No,1,Closed,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,B4,B,4,14:30,Afternoon,34.8,63,1,0,34.3,None,Partly Cloudy,No,1,Closed,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,C1,C,1,14:31,Afternoon,34.8,60,1,0,34.3,None,Partly Cloudy,No,1,Closed,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,C2,C,2,14:32,Afternoon,34.7,59,1,0,34.3,None,Partly Cloudy,No,1,Closed,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,C3,C,3,14:33,Afternoon,34.7,59,1,0,34.3,None,Partly Cloudy,No,1,Closed,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,C4,C,4,14:34,Afternoon,34.7,59,1,0,34.3,None,Partly Cloudy,No,1,Closed,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,D1,D,1,14:35,Afternoon,34.8,59,1,0,34.3,None,Partly Cloudy,No,1,Closed,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,D2,D,2,14:36,Afternoon,34.8,59,1,0,34.3,None,Partly Cloudy,No,1,Closed,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,D3,D,3,14:37,Afternoon,34.8,57,1,0,34.3,None,Partly Cloudy,No,1,Closed,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,D4,D,4,14:38,Afternoon,34.8,57,1,0,34.3,None,Partly Cloudy,No,1,Closed,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,A1,A,1,18:23,Evening,32.7,68,1,0,32.5,None,Partly Cloudy,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,A2,A,2,18:24,Evening,32.7,69,1,0,32.5,None,Partly Cloudy,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,A3,A,3,18:25,Evening,32.7,69,1,0,32.5,None,Partly Cloudy,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,A4,A,4,18:26,Evening,32.6,69,1,0,32.5,None,Partly Cloudy,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,B1,B,1,18:28,Evening,32.6,69,1,0,32.5,None,Partly Cloudy,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,B2,B,2,18:29,Evening,32.6,69,1,0,32.5,None,Partly Cloudy,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,B3,B,3,18:30,Evening,32.6,69,1,0,32.5,None,Partly Cloudy,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,B4,B,4,18:31,Evening,32.6,69,1,0,32.5,None,Partly Cloudy,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,C1,C,1,18:31,Evening,32.6,70,1,0,32.5,None,Partly Cloudy,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,C2,C,2,18:32,Evening,32.6,70,1,0,32.5,None,Partly Cloudy,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,C3,C,3,18:33,Evening,32.6,70,1,0,32.5,None,Partly Cloudy,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,C4,C,4,18:34,Evening,32.6,70,1,0,32.5,None,Partly Cloudy,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,D1,D,1,18:35,Evening,32.7,70,1,0,32.5,None,Partly Cloudy,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,D2,D,2,18:36,Evening,32.7,70,1,0,32.5,None,Partly Cloudy,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,D3,D,3,18:37,Evening,32.7,70,1,0,32.5,None,Partly Cloudy,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-08,Sunday,D4,D,4,18:38,Evening,32.7,70,1,0,32.5,None,Partly Cloudy,No,1,Closed,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,A1,A,1,09:01,Morning,31.5,73,24,6,31.5,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,A2,A,2,09:02,Morning,31.5,69,22,6,31.5,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,A3,A,3,09:03,Morning,31.2,71,24,6,31.5,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,A4,A,4,09:04,Morning,31.2,68,24,6,31.5,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,B1,B,1,09:05,Morning,31,70,24,6,31.5,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,B2,B,2,09:06,Morning,31,73,24,6,31.5,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,B3,B,3,09:08,Morning,30.8,73,20,6,31.5,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,B4,B,4,09:10,Morning,30.8,72,22,6,31.5,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,C1,C,1,09:11,Morning,30.8,71,22,6,31.5,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,C2,C,2,09:12,Morning,30.8,70,22,6,31.5,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,C3,C,3,09:13,Morning,30.8,70,22,6,31.5,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,C4,C,4,09:14,Morning,31,70,22,6,31.5,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,D1,D,1,09:15,Morning,31.5,70,22,6,31.5,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,D2,D,2,09:16,Morning,31.5,70,22,6,31.5,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,D3,D,3,09:17,Morning,31.5,70,22,6,31.5,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,D4,D,4,09:18,Morning,31.6,70,22,6,31.5,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,A1,A,1,13:50,Afternoon,31.8,58,30,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,A2,A,2,13:51,Afternoon,31.6,57,30,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,A3,A,3,13:53,Afternoon,31.6,56,26,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,A4,A,4,13:55,Afternoon,31.9,56,27,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,B1,B,1,13:57,Afternoon,32.0,59,27,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,B2,B,2,13:58,Afternoon,31.8,57,27,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,B3,B,3,14:00,Afternoon,31.8,57,30,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,B4,B,4,14:01,Afternoon,32.1,56,29,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,C1,C,1,14:02,Afternoon,32.1,60,30,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,C2,C,2,14:03,Afternoon,31.9,59,28,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,C3,C,3,14:05,Afternoon,31.9,58,27,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,C4,C,4,14:06,Afternoon,32.2,56,27,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,D1,D,1,14:07,Afternoon,32.3,61,28,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,D2,D,2,14:08,Afternoon,32.1,58,26,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,D3,D,3,14:10,Afternoon,32.1,58,30,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,D4,D,4,14:11,Afternoon,32.4,58,26,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,A1,A,1,17:05,Evening,29.2,71,13,4,29.0,Fan(s) on,Overcast,Light Rain,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,A2,A,2,17:06,Evening,29.0,70,14,4,29.0,Fan(s) on,Overcast,Light Rain,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,A3,A,3,17:08,Evening,29.0,72,11,4,29.0,Fan(s) on,Overcast,Light Rain,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,A4,A,4,17:10,Evening,29.3,70,14,4,29.0,Fan(s) on,Overcast,Light Rain,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,B1,B,1,17:11,Evening,29.4,73,14,4,29.0,Fan(s) on,Overcast,Light Rain,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,B2,B,2,17:13,Evening,29.2,73,10,4,29.0,Fan(s) on,Overcast,Light Rain,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,B3,B,3,17:15,Evening,29.2,71,13,4,29.0,Fan(s) on,Overcast,Light Rain,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,B4,B,4,17:16,Evening,29.5,72,12,4,29.0,Fan(s) on,Overcast,Light Rain,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,C1,C,1,17:18,Evening,29.5,74,11,4,29.0,Fan(s) on,Overcast,Light Rain,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,C2,C,2,17:19,Evening,29.3,74,13,4,29.0,Fan(s) on,Overcast,Light Rain,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,C3,C,3,17:21,Evening,29.3,73,12,4,29.0,Fan(s) on,Overcast,Light Rain,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,C4,C,4,17:23,Evening,29.6,71,13,4,29.0,Fan(s) on,Overcast,Light Rain,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,D1,D,1,17:25,Evening,29.7,75,13,4,29.0,Fan(s) on,Overcast,Light Rain,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,D2,D,2,17:27,Evening,29.5,74,11,4,29.0,Fan(s) on,Overcast,Light Rain,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,D3,D,3,17:29,Evening,29.5,75,12,4,29.0,Fan(s) on,Overcast,Light Rain,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-09,Monday,D4,D,4,17:31,Evening,29.8,73,10,4,29.0,Fan(s) on,Overcast,Light Rain,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,A1,A,1,09:00,Morning,27.7,87,24,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,A2,A,2,09:01,Morning,27.5,86,26,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,A3,A,3,09:03,Morning,27.5,87,23,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,A4,A,4,09:04,Morning,27.8,84,23,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,B1,B,1,09:05,Morning,27.9,88,23,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,B2,B,2,09:07,Morning,27.7,86,23,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,B3,B,3,09:09,Morning,27.7,87,23,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,B4,B,4,09:10,Morning,28.0,87,26,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,C1,C,1,09:11,Morning,28.0,89,23,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,C2,C,2,09:12,Morning,27.8,87,23,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,C3,C,3,09:13,Morning,27.8,87,23,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,C4,C,4,09:15,Morning,28.1,87,22,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,D1,D,1,09:16,Morning,28.2,90,24,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,D2,D,2,09:18,Morning,28.0,90,22,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,D3,D,3,09:20,Morning,28.0,90,26,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,D4,D,4,09:21,Morning,28.3,87,23,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,A1,A,1,13:50,Afternoon,31.8,57,27,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,A2,A,2,13:52,Afternoon,31.6,56,26,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,A3,A,3,13:53,Afternoon,31.6,57,26,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,A4,A,4,13:55,Afternoon,31.9,57,30,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,B1,B,1,13:57,Afternoon,32.0,60,30,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,B2,B,2,13:58,Afternoon,31.8,58,28,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,B3,B,3,14:00,Afternoon,31.8,59,28,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,B4,B,4,14:02,Afternoon,32.1,58,27,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,C1,C,1,14:03,Afternoon,32.1,60,30,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,C2,C,2,14:05,Afternoon,31.9,60,30,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,C3,C,3,14:06,Afternoon,31.9,60,30,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,C4,C,4,14:08,Afternoon,32.2,57,26,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,D1,D,1,14:09,Afternoon,32.3,61,26,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,D2,D,2,14:11,Afternoon,32.1,59,27,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,D3,D,3,14:13,Afternoon,32.1,59,28,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,D4,D,4,14:14,Afternoon,32.4,58,26,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,A1,A,1,17:05,Evening,29.2,74,8,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,A2,A,2,17:06,Evening,29.0,73,9,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,A3,A,3,17:07,Evening,29.0,72,8,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,A4,A,4,17:09,Evening,29.3,70,9,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,B1,B,1,17:11,Evening,29.4,75,8,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,B2,B,2,17:12,Evening,29.2,73,10,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,B3,B,3,17:14,Evening,29.2,73,8,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,B4,B,4,17:15,Evening,29.5,73,12,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,C1,C,1,17:16,Evening,29.5,76,10,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,C2,C,2,17:18,Evening,29.3,75,12,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,C3,C,3,17:20,Evening,29.3,73,8,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,C4,C,4,17:22,Evening,29.6,74,9,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,D1,D,1,17:23,Evening,29.7,76,8,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,D2,D,2,17:24,Evening,29.5,75,11,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,D3,D,3,17:26,Evening,29.5,74,9,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-10,Tuesday,D4,D,4,17:28,Evening,29.8,73,10,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,A1,A,1,09:00,Morning,27.7,88,22,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,A2,A,2,09:02,Morning,27.5,87,24,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,A3,A,3,09:03,Morning,27.5,87,22,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,A4,A,4,09:05,Morning,27.8,86,23,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,B1,B,1,09:07,Morning,27.9,88,26,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,B2,B,2,09:09,Morning,27.7,86,24,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,B3,B,3,09:10,Morning,27.7,88,26,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,B4,B,4,09:11,Morning,28.0,85,26,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,C1,C,1,09:12,Morning,28.0,88,26,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,C2,C,2,09:13,Morning,27.8,88,24,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,C3,C,3,09:14,Morning,27.8,88,26,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,C4,C,4,09:15,Morning,28.1,86,26,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,D1,D,1,09:16,Morning,28.2,90,24,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,D2,D,2,09:17,Morning,28.0,90,22,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,D3,D,3,09:19,Morning,28.0,90,25,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,D4,D,4,09:21,Morning,28.3,88,22,6,27.0,Natural only,Partly Cloudy,No,13,Open,Left wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,A1,A,1,13:50,Afternoon,31.8,59,29,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,A2,A,2,13:52,Afternoon,31.6,57,30,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,A3,A,3,13:53,Afternoon,31.6,56,29,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,A4,A,4,13:54,Afternoon,31.9,57,26,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,B1,B,1,13:55,Afternoon,32.0,59,27,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,B2,B,2,13:57,Afternoon,31.8,58,30,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,B3,B,3,13:59,Afternoon,31.8,59,27,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,B4,B,4,14:01,Afternoon,32.1,58,30,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,C1,C,1,14:02,Afternoon,32.1,59,30,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,C2,C,2,14:03,Afternoon,31.9,59,26,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,C3,C,3,14:05,Afternoon,31.9,60,27,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,C4,C,4,14:07,Afternoon,32.2,57,28,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,D1,D,1,14:08,Afternoon,32.3,60,26,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,D2,D,2,14:09,Afternoon,32.1,61,27,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,D3,D,3,14:11,Afternoon,32.1,61,27,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,D4,D,4,14:12,Afternoon,32.4,58,26,0,32.0,Fan(s) on,Partly Cloudy,No,17,Partially Open,Right wall windows,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,A1,A,1,17:05,Evening,29.2,72,9,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,A2,A,2,17:07,Evening,29.0,73,8,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,A3,A,3,17:08,Evening,29.0,72,10,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,A4,A,4,17:10,Evening,29.3,70,10,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,B1,B,1,17:11,Evening,29.4,75,12,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,B2,B,2,17:12,Evening,29.2,73,9,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,B3,B,3,17:13,Evening,29.2,73,8,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,B4,B,4,17:14,Evening,29.5,71,12,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,C1,C,1,17:16,Evening,29.5,75,11,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,C2,C,2,17:17,Evening,29.3,75,11,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,C3,C,3,17:19,Evening,29.3,73,12,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,C4,C,4,17:20,Evening,29.6,73,12,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,D1,D,1,17:21,Evening,29.7,76,10,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,D2,D,2,17:22,Evening,29.5,75,8,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,D3,D,3,17:23,Evening,29.5,74,9,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
+2026-03-11,Wednesday,D4,D,4,17:25,Evening,29.8,73,10,4,29.0,Fan(s) on,Overcast,No,5,Open,No direct sun,11.3,6.64,2.65,4x4,0.6,1.9,12,1.0,Carpet,Concrete/Block
